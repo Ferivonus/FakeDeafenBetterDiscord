@@ -1,9 +1,3 @@
----
-
-İşte `FakeDeafen` eklentin için daha **eğlenceli ve kopyalanabilir** bir Markdown metni! GitHub README dosyana yapıştırıp arkadaşlarına hava atabilirsin.
-
----
-
 # 🎧 FakeDeafen: Discord'da Çaktırmadan Sağır Taklidi Yap! 🤫
 
 Discord'da takılırken bazen "duymuyormuş gibi" yapmak ister misin ama aslında her şeyi dinlemek mi? İşte tam da bunun için süper havalı bir BetterDiscord eklentisi: **FakeDeafen**! Mikrofonun açık olsa bile diğerleri seni sağır zannedecek. Tam bir ajanlık!
